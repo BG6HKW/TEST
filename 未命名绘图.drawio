@@ -8,10 +8,10 @@
           <mxGeometry x="237" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VhkH85n-PybB8JSj3wVb-2" value="模拟电路" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="93" width="120" height="60" as="geometry" />
+          <mxGeometry x="407" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VhkH85n-PybB8JSj3wVb-4" value="数字电路" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="187" width="120" height="60" as="geometry" />
+          <mxGeometry x="407" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VhkH85n-PybB8JSj3wVb-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="120" width="48" height="100" as="geometry" />
